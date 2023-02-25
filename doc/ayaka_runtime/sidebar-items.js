@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["OpenStatus"],"fn":["version"],"macro":["locale"],"mod":["plugin"],"struct":["Context","Game","GameConfig","Paragraph","PluginConfig"]};

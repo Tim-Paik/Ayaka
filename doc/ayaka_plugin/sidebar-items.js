@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["ABI_ALLOC_NAME","ABI_FREE_NAME","MEMORY_NAME"],"struct":["PluginModule"],"trait":["Linker","LinkerHandle","RawModule"]};

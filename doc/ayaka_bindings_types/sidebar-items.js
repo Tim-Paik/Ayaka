@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Action","ActionSubText","FileSeekFrom","FileType","FrontendType"],"struct":["ActionProcessContext","ActionProcessResult","ActionText","FileMetadata","GameProcessContext","GameProcessResult","LineProcessContext","LineProcessResult","PluginType","PluginTypeBuilder","RawContext","Switch","TextProcessContext","TextProcessResult"],"type":["VarMap"]};

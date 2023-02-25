@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["OpenGameStatus"],"struct":["ActionRecord","GameViewModel","GlobalRecord","Settings"],"trait":["SettingsManager"]};
