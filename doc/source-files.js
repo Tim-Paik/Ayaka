@@ -1,8 +1,9 @@
 var sourcesIndex = JSON.parse('{\
+"ayaka_bindings":["",[],["fs.rs","lib.rs","logger.rs"]],\
+"ayaka_bindings_impl":["",[],["lib.rs"]],\
 "ayaka_bindings_types":["",[],["config.rs","fs.rs","lib.rs","logger.rs","plugin.rs"]],\
 "ayaka_model":["",[],["lib.rs","settings.rs","view_model.rs"]],\
 "ayaka_plugin":["",[],["lib.rs"]],\
-"ayaka_plugin_nop":["",[],["lib.rs"]],\
 "ayaka_plugin_wasmer":["",[],["lib.rs"]],\
 "ayaka_plugin_wasmi":["",[],["lib.rs"]],\
 "ayaka_plugin_wasmtime":["",[],["lib.rs"]],\
